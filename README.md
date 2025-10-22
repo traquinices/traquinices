@@ -18,7 +18,7 @@
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Kotlin](https://img.shields.io/badge/kotlin-FFA500?style=for-the-badge&logo=kotlin&logoColor=9D00FF)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=traquinices&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -30,4 +30,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=traquinices&show_icons=true&locale=en&layout=compact" alt="traquinices" /></p>
