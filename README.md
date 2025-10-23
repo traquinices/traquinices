@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Computer Science Student from Portugal</h3>
 
 - 🎓 I’m currently studying Computer Science in IPBeja
-  
--🔭 Take a look at my [portfolio](https://portfolio-main-umber-two.vercel.app) 
+
+- 🔭 Take a look at my [portfolio](https://portfolio-main-umber-two.vercel.app) 
 
 - 🌱 I’m currently learning **Python, C++**
 
