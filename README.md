@@ -25,7 +25,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
 
 ## 🛠️ Networking Tools: 
-![GNS3](https://img.shields.io/badge/GNS3-0078D7?style=for-the-badge&logo=gns3&logoColor=white)  
+![GNS3](https://img.shields.io/badge/GNS3-0078D7?style=for-the-badge&logo=gns3&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-009688?style=for-the-badge&logo=cisco&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)  
 
