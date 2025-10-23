@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paulo Neves</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FFFFFF&duration=4000&lines=Hi+There!+👋;+I'm+Paulo+Neves!;" /></h1>
 <h3 align="center">A passionate Computer Science Student from Portugal</h3>
 
 - 🎓 I’m currently studying Computer Science in IPBeja
